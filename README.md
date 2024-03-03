@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishxnpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2&custom_title=Skills" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishxnpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2&custom_title=Most used Languages" height="170" alt="languages graph"  />
 
 ###
 <h5 align="left">Language Skills</h5>

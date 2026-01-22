@@ -1,12 +1,9 @@
 <div align="center">
 
 # 👋 Hey, I'm Kishan Patel
+### IT Professional | Chrome Extension Developer | System Administrator
 
-### IT Support Engineer @ AECOM | Chrome Extension Developer | Tech Troubleshooter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kishnpatel)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-black?style=for-the-badge&logo=dev.to)](https://dev.to/kishxnpatel)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kishnptll@gmail.com)
+[![GetAddons](https://img.shields.io/badge/GetAddons-Visit-orange?style=for-the-badge)](https://getaddons.io)
 
 </div>
 
@@ -14,52 +11,58 @@
 
 ## 🚀 What I'm Building
 
-### 🔧 Chrome Extensions (GetAddons)
-Building productivity tools for developers and IT professionals:
+### 🔧 Chrome Extensions
+In my spare time, I develop productivity tools for IT professionals and developers at **[GetAddons.io](https://getaddons.io)**:
+- **Windows Troubleshoot Pro** - 100+ Windows commands (CMD, PowerShell, Run) with professional interface
+- **QuickAI Developer Toolkit** - AI-powered utilities for developers
+- More IT automation tools in development
 
-- **[Windows Troubleshoot Pro](https://chromewebstore.google.com)** - 100+ Windows commands (CMD, PowerShell, Run) with a sleek interface
-- **[QuickAI Developer Toolkit](https://chromewebstore.google.com)** - AI-powered utilities for developers
-- 🎯 More tools coming soon under the **GetAddons** brand
-
-### 🏢 Day Job: Senior Technical Support @ AECOM
-Solving complex IT challenges for enterprise infrastructure:
-- Hardware diagnostics & system optimization
-- Enterprise tech support (docking stations, displays, network connectivity)
-- Troubleshooting wizardry for workplace technology issues
-
-### 🔬 Current Lab Projects
-- **Simulated IT Support Environment** - Windows Server + Active Directory
-- **Ticketing System Mastery** - Jira, ServiceNow, osTicket workflows
-- **Security Monitoring** - Splunk, ELK stack, threat detection
-- **Network Infrastructure** - VMware ESXi, pfSense, VLAN configs
+### 🔬 Technical Projects & Labs
+- **Windows Server & Active Directory** - Domain management, GPO configuration, user provisioning
+- **Ticketing System Workflows** - Jira, ServiceNow, osTicket automation and integration
+- **Security Operations** - Splunk SIEM, ELK stack deployment, threat hunting
+- **Network Infrastructure** - VMware ESXi virtualization, pfSense firewall, VLAN segmentation
+- **Automation Scripts** - PowerShell and Bash scripts for system administration
 
 ---
 
-## 💡 Skills & Expertise
+## 💻 Technical Skills
 
 ```yaml
-IT Support:
-  - Windows Server & Active Directory
-  - Office 365 Administration
-  - Exchange Online Management
-  - Hardware Diagnostics & Troubleshooting
-  - Remote Desktop Support
-  
-Development:
-  - Chrome Extension Development
-  - JavaScript/HTML/CSS
-  - API Integration
-  - UI/UX Design
-  
-Infrastructure:
-  - VMware ESXi
-  - Network Configuration (VLANs, pfSense)
-  - System Deployment & Imaging
-  
-Security:
-  - Threat Detection & Monitoring
-  - Splunk & ELK Stack
-  - Incident Response
+Systems Administration:
+  - Windows Server 2019/2022 & Active Directory
+  - Group Policy Management & User Provisioning
+  - Office 365 & Exchange Online Administration
+  - System Deployment & Imaging (MDT, WDS)
+  - Remote Desktop Services & VDI
+
+Development & Scripting:
+  - Chrome Extension Development (JavaScript, HTML/CSS)
+  - PowerShell Automation & Scripting
+  - Bash/Shell Scripting
+  - API Integration & REST APIs
+  - Git Version Control
+
+Infrastructure & Virtualization:
+  - VMware ESXi & vSphere
+  - Hyper-V Virtualization
+  - Docker Containerization
+  - Network Configuration (VLANs, Routing, Switching)
+  - pfSense Firewall Management
+
+Security & Monitoring:
+  - Splunk SIEM Configuration
+  - ELK Stack (Elasticsearch, Logstash, Kibana)
+  - Threat Detection & Incident Response
+  - Windows Defender & Endpoint Protection
+  - Network Security & Hardening
+
+IT Service Management:
+  - Jira Service Management
+  - ServiceNow ITSM
+  - osTicket Configuration
+  - Incident & Problem Management
+  - SLA Monitoring & Reporting
 ```
 
 ---
@@ -76,42 +79,34 @@ Security:
 
 ---
 
-## 💬 Ask Me About
+## 💬 Technical Interests
 
-- 🖥️ Setting up Windows Server & Active Directory labs
-- 📧 Office 365 administration and user support
-- 🔌 Network troubleshooting (yes, I've seen it all)
-- 🎫 Building efficient IT ticketing workflows
-- ⚡ Chrome extension development tips
-- 🛠️ Turning repetitive tasks into automated solutions
-
----
-
-## 🎯 Fun Facts
-
-> **"Have you tried turning it off and on again?"** - Actually works 60% of the time, every time.
-
-- 🏆 Fixed more "Wi-Fi is slow" tickets than I can count (spoiler: it's usually the cable)
-- 🎨 Turned Windows troubleshooting into a Chrome extension with 100+ commands
-- 📈 My LinkedIn posts on technical topics get surprisingly good organic reach
-- 🌐 Building GetAddons as a side hustle while keeping enterprise systems running smoothly
+- 🖥️ Windows Server infrastructure and Active Directory architecture
+- 🔐 SIEM implementation and security operations center (SOC) workflows
+- 🎫 ITSM automation and ticketing system integrations
+- ⚡ Chrome extension development for IT automation
+- 🌐 Network design and firewall configurations
+- 🐳 Container orchestration and virtualization strategies
+- 📊 PowerShell scripting for system administration
+- 🛠️ Building homelab environments for testing and learning
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Beyond IT
 
-Whether you need IT support insights, want to collaborate on Chrome extensions, or just want to talk tech:
+> **Spare Time Projects:** Turning IT frustrations into Chrome extensions
 
-- 💼 **LinkedIn:** [linkedin.com/in/kishnpatel](https://linkedin.com/in/kishnpatel)
-- 📝 **Dev.to:** [dev.to/kishxnpatel](https://dev.to/kishxnpatel)
-- 📧 **Email:** kishnptll@gmail.com
-- 🌐 **Website:** [kishxnpatel.com](https://kishxnpatel.com)
+- 🎨 Building GetAddons.io as a side project for IT automation tools
+- 🏠 Running a homelab with VMware ESXi, pfSense, and Active Directory
+- 📈 Experimenting with SIEM tools and security monitoring in virtual environments
+- 🔧 Automating repetitive Windows tasks with PowerShell scripts
+- 🌐 Contributing to IT communities and documenting technical solutions
 
 ---
 
 <div align="center">
 
-### ⚡ "Debugging is like being a detective in a crime movie where you're also the murderer." ⚡
+### ⚡ "In a world full of users who claim 'it just stopped working', be the admin who checks the logs first." ⚡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kishxnpatel&color=brightgreen&style=flat-square)
 

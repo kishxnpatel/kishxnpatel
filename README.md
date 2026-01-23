@@ -16,38 +16,47 @@ In my spare time, I develop Chrome extensions at **[GetAddons.io](https://getadd
 
 ## Projects
 
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🎫 [OsTicket-Helpdesk-System](https://github.com/kishxnpatel/OsTicket-Helpdesk-System)
 Fully functional IT helpdesk simulation replicating real-world support workflows.
 
 `Windows 11` `Active Directory` `Ticketing` `Linux` `Networking`
 
----
+</td>
+<td width="50%">
 
 ### 🛡️ [Blue Team Mimikatz Detection](https://github.com/kishxnpatel/blue-team-mimikatz-detection)
 Credential dumping detection lab with Sysmon and Splunk alerts.
 
 `Windows Logs` `Sysmon` `Splunk` `Security Monitoring`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📝 [IT Support Ticket Library](https://github.com/kishxnpatel/it-support-ticket-library)
 Real-world ticket write-ups with KB articles for standardized fixes.
 
 `Windows 10/11` `Microsoft 365` `Active Directory` `PowerShell` `KB Writing`
 
----
+</td>
+<td width="50%">
 
 ### 🌐 Network Simulation & Infrastructure Hardening
 VMware ESXi lab with pfSense, Snort IDS/IPS, OpenVPN, and incident response playbooks.
 
 `VMware ESXi` `pfSense` `Snort` `Windows Server` `PowerShell` `Security`
 
----
+</td>
+</tr>
+</table>
+
 
 <div align="center">
-
-**Calgary, AB**
-
-![Profile Views](https://komarev.com/ghpvc/?username=kishxnpatel&color=blue&style=flat-square)
 
 </div>

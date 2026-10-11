@@ -7,9 +7,12 @@ This is where my spare time goes. Half-finished ideas, home lab experiments, and
 ---
 
 ### 🔧 currently messing with
-
+ 
+- **[Monitor Lizard](https://github.com/kishxnpatel/Monitor-Lizard)** 🦎: rebuilt Windows display settings from scratch in Rust, then added everything Windows won't put in Settings. Brightness on external monitors, input switching, HDR, auto-revert
 - **[pdfcraft](https://github.com/kishxnpatel/pdfcraft)**: forked a pure-Rust Acrobat clone, teaching it Windows tricks
 - **GetAddons**: a growing pile of Chrome extensions
 - **Home lab**: attacking my own machines, then learning to catch myself
+ 
+`Rust` `PowerShell` `Python` `Win32 APIs` `Sysmon` `Linux` `Windows` `Networking`
 
 💬 Got a weird idea? Hit me up on [LinkedIn](https://www.linkedin.com/in/kishnpatel) or open an issue.

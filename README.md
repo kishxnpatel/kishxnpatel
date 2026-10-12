@@ -15,4 +15,4 @@ This is where my spare time goes. Half-finished ideas, home lab experiments, and
  
 `Rust` `PowerShell` `Python` `Win32 APIs` `Sysmon` `Linux` `Windows` `Networking`
 
-💬 Got a weird idea? Hit me up on [LinkedIn](https://www.linkedin.com/in/kishnpatel) or open an issue.
+
